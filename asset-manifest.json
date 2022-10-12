@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ora-rwanda-construction/static/css/main.22233ca4.css",
+    "main.js": "/ora-rwanda-construction/static/js/main.e9c21d3e.js",
+    "static/js/787.c027754e.chunk.js": "/ora-rwanda-construction/static/js/787.c027754e.chunk.js",
+    "static/media/10.jpg": "/ora-rwanda-construction/static/media/10.9411aff9bf4ffd464476.jpg",
+    "static/media/1.jpg": "/ora-rwanda-construction/static/media/1.13cba8b815e8c8516b37.jpg",
+    "static/media/real-estate.png": "/ora-rwanda-construction/static/media/real-estate.53c0fdf8b0340f208ba1.png",
+    "static/media/design-team.png": "/ora-rwanda-construction/static/media/design-team.20a8518cf991e3ef2323.png",
+    "static/media/home.png": "/ora-rwanda-construction/static/media/home.e0fe0af761b15e94f199.png",
+    "static/media/npd-clogo1.png": "/ora-rwanda-construction/static/media/npd-clogo1.dbb78701f1b417445aa1.png",
+    "static/media/under-construction.png": "/ora-rwanda-construction/static/media/under-construction.e1e72d8fbd280272c12c.png",
+    "static/media/building.png": "/ora-rwanda-construction/static/media/building.714840289365a05e6ae9.png",
+    "static/media/wave.png": "/ora-rwanda-construction/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/house.png": "/ora-rwanda-construction/static/media/house.640d0b1e39b36fd2550c.png",
+    "index.html": "/ora-rwanda-construction/index.html",
+    "main.22233ca4.css.map": "/ora-rwanda-construction/static/css/main.22233ca4.css.map",
+    "main.e9c21d3e.js.map": "/ora-rwanda-construction/static/js/main.e9c21d3e.js.map",
+    "787.c027754e.chunk.js.map": "/ora-rwanda-construction/static/js/787.c027754e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22233ca4.css",
+    "static/js/main.e9c21d3e.js"
+  ]
+}
